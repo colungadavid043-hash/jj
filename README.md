@@ -39,7 +39,7 @@ Para ello, se trabajó con datos reales de TomTom Traffic Index y OECD Cities, r
 
 ### Dataset
 
-- tomtom_traffic.csv : Datos sobre congestión vehicular y condiciones de tráfico en ciudades del mundo  descar el archivo en: https://drive.google.com/file/d/1mnp9WWdmr9_A39IZ23JHhMZzh-N_KcD1/view?usp=sharing .
+- tomtom_traffic.csv : Datos sobre congestión vehicular y condiciones de tráfico en ciudades del mundo.  Consulta el archivo en: https://drive.google.com/file/d/1mnp9WWdmr9_A39IZ23JHhMZzh-N_KcD1/view?usp=sharing .
 - oecd_city_economy.csv : Indicadores económicos y ambientales por ciudad, recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económico). 
 
 
